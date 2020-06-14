@@ -22,6 +22,7 @@
             <td>Visual Studio</td>
           </tr>
         </tbody>
+        <h3>Integrer le fichier html.sql avant d ouvrir le fichier connexionuser.php</h3>
       </table>
     </div>
   </body>
